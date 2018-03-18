@@ -16,7 +16,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".dashboard"></activity>
+        <activity android:name=".dashboard" />
+        <activity android:name=".camera" />
+        <activity android:name=".dictionary" />
+        <activity android:name=".howto" />
+        <activity android:name=".aboutus" />
+        <activity android:name=".app.number" />
+        <activity android:name=".app.vowel" />
+        <activity android:name=".app.consonant"></activity>
     </application>
 
 </manifest>

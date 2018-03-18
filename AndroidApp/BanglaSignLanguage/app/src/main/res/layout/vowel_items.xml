@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_view"
+    card_view:cardUseCompatPadding="true"
+    android:layout_marginBottom="16dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/lightgray"
+        android:paddingBottom="4dp">
+
+        <ImageView
+            android:id="@+id/vowelImageView"
+            android:layout_width="117dp"
+            android:layout_height="124dp"
+            android:layout_marginTop="5dp"
+            android:src="@drawable/b1"/>
+        <TextView
+            android:id="@+id/vowelTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:textStyle="bold"
+
+            android:textSize="50sp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:gravity="right"
+            android:layout_marginRight="30dp"/>
+
+    </RelativeLayout>
+
+
+</android.support.v7.widget.CardView>

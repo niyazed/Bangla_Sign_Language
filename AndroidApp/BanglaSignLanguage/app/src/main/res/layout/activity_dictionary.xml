@@ -16,11 +16,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
         <android.support.v7.widget.CardView
-            android:id="@+id/camera_card"
+            android:id="@+id/number_card"
             android:foreground="?android:attr/selectableItemBackground"
             android:clickable="true"
-            android:layout_width="160dp"
-            android:layout_height="190dp"
+            android:layout_width="340dp"
+            android:layout_height="150dp"
             android:layout_margin="10dp">
             <LinearLayout
                 android:layout_width="match_parent"
@@ -30,15 +30,15 @@
                 <ImageView
                     android:layout_width="64dp"
                     android:layout_height="64dp"
-                    android:background="@drawable/circlepurple"
-                    android:src="@drawable/ic_camera_alt_black_24dp"
+                    android:background="@drawable/circlered"
+                    android:src="@drawable/ic_widgets_black_24dp"
                     android:padding="10dp"/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textStyle="bold"
                     android:layout_marginTop="10dp"
-                    android:text="Camera"/>
+                    android:text="সংখ্যা"/>
                 <View
                     android:layout_width="match_parent"
                     android:layout_height="1dp"
@@ -48,18 +48,25 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:gravity="center"
-                    android:text="Translate Your Sign"
+                    android:text="১ - ১০"
                     android:textColor="@android:color/darker_gray"/>
             </LinearLayout>
 
         </android.support.v7.widget.CardView>
 
+    </LinearLayout>
+    <LinearLayout
+        android:clipToPadding="false"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
         <android.support.v7.widget.CardView
-            android:id="@+id/dictionary_card"
+            android:id="@+id/vowel_card"
             android:foreground="?android:attr/selectableItemBackground"
             android:clickable="true"
-            android:layout_width="160dp"
-            android:layout_height="190dp"
+            android:layout_width="340dp"
+            android:layout_height="150dp"
             android:layout_margin="10dp">
             <LinearLayout
                 android:layout_width="match_parent"
@@ -70,14 +77,14 @@
                     android:layout_width="64dp"
                     android:layout_height="64dp"
                     android:background="@drawable/circlegreen"
-                    android:src="@drawable/ic_book_black_24dp"
+                    android:src="@drawable/ic_widgets_black_24dp"
                     android:padding="10dp"/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textStyle="bold"
                     android:layout_marginTop="10dp"
-                    android:text="Dictionary"/>
+                    android:text="স্বরবর্ণ"/>
                 <View
                     android:layout_width="match_parent"
                     android:layout_height="1dp"
@@ -87,14 +94,13 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:gravity="center"
-                    android:text="Bangla Sign Dictionary"
+                    android:text="অ - ঔ"
                     android:textColor="@android:color/darker_gray"/>
             </LinearLayout>
 
         </android.support.v7.widget.CardView>
 
     </LinearLayout>
-
     <LinearLayout
         android:clipToPadding="false"
         android:gravity="center"
@@ -102,7 +108,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
         <android.support.v7.widget.CardView
-            android:id="@+id/howTo_card"
+            android:id="@+id/consonant_card"
             android:foreground="?android:attr/selectableItemBackground"
             android:clickable="true"
             android:layout_width="340dp"
@@ -117,14 +123,14 @@
                     android:layout_width="64dp"
                     android:layout_height="64dp"
                     android:background="@drawable/circleyellow"
-                    android:src="@drawable/ic_lightbulb_outline_black_24dp"
+                    android:src="@drawable/ic_widgets_black_24dp"
                     android:padding="10dp"/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textStyle="bold"
                     android:layout_marginTop="10dp"
-                    android:text="How To"/>
+                    android:text="ব্যঞ্জনবর্ণ"/>
                 <View
                     android:layout_width="match_parent"
                     android:layout_height="1dp"
@@ -134,61 +140,12 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:gravity="center"
-                    android:text="Simple Guidelines"
+                    android:text="‍ক - ঁ"
                     android:textColor="@android:color/darker_gray"/>
             </LinearLayout>
 
         </android.support.v7.widget.CardView>
 
     </LinearLayout>
-
-    <LinearLayout
-        android:clipToPadding="false"
-        android:gravity="center"
-        android:orientation="horizontal"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
-        <android.support.v7.widget.CardView
-        android:id="@+id/aboutUs_card"
-        android:foreground="?android:attr/selectableItemBackground"
-        android:clickable="true"
-        android:layout_width="340dp"
-        android:layout_height="150dp"
-        android:layout_margin="10dp">
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:orientation="vertical"
-            android:gravity="center">
-            <ImageView
-                android:layout_width="64dp"
-                android:layout_height="64dp"
-                android:background="@drawable/circlered"
-                android:src="@drawable/ic_group_black_24dp"
-                android:padding="10dp"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textStyle="bold"
-                android:layout_marginTop="10dp"
-                android:text="About Us"/>
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="@color/lightgray"
-                android:layout_margin="10dp"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:text="------"
-                android:textColor="@android:color/darker_gray"/>
-        </LinearLayout>
-
-    </android.support.v7.widget.CardView>
-
-    </LinearLayout>
-
-
 
 </LinearLayout>
