@@ -1,3 +1,28 @@
 <resources>
+    <!--APP NAME STRING-->
     <string name="app_name">Bangla Sign Language</string>
+
+    <!--CAMERA ACTIVITY STRING-->
+    <string name="toggle_camera">Toggle Camera</string>
+    <string name="detect_sign">Detect Sign</string>
+
+    <!--HOW TO ACTIVITY STRING-->
+    <string name="name">Intro Slider</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Camera Placing</string>
+    <string name="slide_1_desc">Place your camera middle of your body</string>
+
+    <string name="slide_2_title">Toggle Camera</string>
+    <string name="slide_2_desc">Toggle your camera Front/Rear Facing using </string>
+
+    <string name="slide_3_title">Detect Sign</string>
+    <string name="slide_3_desc">Find the meaning of Sign using</string>
+
+    <string name="slide_4_title">Dictionary</string>
+    <string name="slide_4_desc">Learn Fundamentals of Bangla Sign Language</string>
+
 </resources>
