@@ -5,10 +5,6 @@ Project : CSE299---Junior-Project
         <img alt='Bangla Sign Language' src='repo/bsl-180.png' />
     </a>
     <br>
-    <h3>Google Drive Link -</h3>
-    <a href="https://drive.google.com/file/d/1uGpZy1fZyF2xbpuoV6j05MuW0A5SLqpd/view" target="_blank">
-        <img alt='Google Drive' src='repo/google-drive.png'/>
-    </a>
 </p>
 <br><br>
 <p align="center">
@@ -16,11 +12,12 @@ Project : CSE299---Junior-Project
     <a href="https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0"><img src="https://img.shields.io/badge/CodeLab-tof-blue.svg?longCache=true&style=flat-square" alt="TensorFlow For Poets"></a>
     <a href="https://docs.camerakit.website/#/"><img src="https://img.shields.io/badge/CameraKit-v0.13.1-lightgrey.svg?longCache=true&style=flat-square" alt="CameraKit"></a>
     <a href="https://www.python.org/downloads/release/python-360/"><img src="https://img.shields.io/badge/python-v3.6-brightgreen.svg?longCache=true&style=flat-square" alt="Python"></a>
-    
-    
-
-
-    
-       
 </p>
 
+<p align="center">
+<h3>Google Drive Link -</h3>
+    <a href="https://drive.google.com/file/d/1uGpZy1fZyF2xbpuoV6j05MuW0A5SLqpd/view" target="_blank">
+        <img alt='Google Drive' src='repo/google-drive.png'/>
+    </a>
+
+</p>
