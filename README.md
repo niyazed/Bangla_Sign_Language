@@ -4,10 +4,10 @@ Project : CSE299---Junior-Project
     <a href="https://github.com/niyazed/Bangla_SignLanguage-CSE299" target="_blank">
         <img alt='Bangla Sign Language' src='repo/bsl-180.png' />
     </a>
-</p>
-<h1>Google Drive Link -</h1>
-<p align="center">
+    <br>
+    <h3>Google Drive Link -</h3>
     <a href="https://drive.google.com/file/d/1uGpZy1fZyF2xbpuoV6j05MuW0A5SLqpd/view" target="_blank">
         <img alt='Google Drive' src='repo/google-drive.png'/>
     </a>
 </p>
+
