@@ -12,7 +12,5 @@ Project : CSE299---Junior-Project
 </p>
 
 <p align="center">
-    <a href="https://www.tensorflow.org/get_started"><img src="https://img.shields.io/badge/TensorFlow--orange.svg" alt="TensorFlow"></a>
-   
-    </p>
+    <a href="https://www.tensorflow.org/get_started"><img src="https://img.shields.io/badge/TensorFlow--orange.svg" alt="TensorFlow"></a> </p>
 
