@@ -7,7 +7,7 @@ Project : CSE299---Junior-Project
     <br>
     <h3>Google Drive Link -</h3>
     <a  href="https://drive.google.com/file/d/1uGpZy1fZyF2xbpuoV6j05MuW0A5SLqpd/view" target="_blank">
-        <img alt='Google Drive' src='repo/google-drive.png' style="align:center;/>
+        <img alt='Google Drive' src='repo/google-drive.png'/>
     </a>
 </p>
 
