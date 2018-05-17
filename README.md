@@ -14,10 +14,4 @@ Project : CSE299---Junior-Project
     <a href="https://www.python.org/downloads/release/python-360/"><img src="https://img.shields.io/badge/python-v3.6-brightgreen.svg?longCache=true&style=flat-square" alt="Python"></a>
 </p>
 
-<p align="center">
-<h3>Google Drive Link -</h3>
-    <a href="https://drive.google.com/file/d/1uGpZy1fZyF2xbpuoV6j05MuW0A5SLqpd/view" target="_blank">
-        <img alt='Google Drive' src='repo/google-drive.png'/>
-    </a>
 
-</p>
