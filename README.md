@@ -1,4 +1,4 @@
-<title><center>Bangla Sign Language Interpreter</center> </title>
+# <center>Bangla Sign Language Interpreter</center> 
 
 <p align="center">
     <a href="https://github.com/niyazed/Bangla_SignLanguage-CSE299" target="_blank">
