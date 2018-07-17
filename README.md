@@ -1,5 +1,5 @@
 # Bangla Sign Language Interpreter 
-Project : CSE299---Junior-Project
+
 <p align="center">
     <a href="https://github.com/niyazed/Bangla_SignLanguage-CSE299" target="_blank">
         <img alt='Bangla Sign Language' src='repo/bsl-180.png' />
